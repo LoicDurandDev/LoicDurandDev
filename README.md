@@ -64,7 +64,7 @@ N’hésite pas à me contacter :
 
 ### 📌 Projets épinglés
 
-**[fleetOps](https://github.com/LoicDurandDev/fleetOps)**  
+**[ReservAuto-showcase](https://github.com/LoicDurandDev/ReservAuto-showcase)**  
 
 🚧 Projet en cours de réalisation
 
